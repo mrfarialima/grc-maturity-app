@@ -2,7 +2,7 @@
   "name": "grc-maturity-app",
   "version": "1.0.0",
   "description": "GRC Maturity App baseado nos CIS Controls v8",
-  "homepage": "https://github.com/mrfarialima/grc-maturity-app",
+  "homepage": "https://mrfarialima.github.io/grc-maturity-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
